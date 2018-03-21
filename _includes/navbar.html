@@ -1,0 +1,10 @@
+<nav>
+	<ul>
+	{% for link in site.data.navdata.links %}
+			<li> 
+				<a href="{{ link.url }}" {% if link.url == page.url %} class = "active" {% endif %}>{{ link.name }}	
+				</a>
+			</li>
+	{% endfor %}
+	</ul>
+</nav>

@@ -1,0 +1,12 @@
+links: [
+	{
+		name: 'Home',
+		url: '/',
+		title: 'Site Overview'
+	},
+	{
+		name: 'About',
+		url: '/about/',
+		title: 'Why did I make this site'
+	}
+]
