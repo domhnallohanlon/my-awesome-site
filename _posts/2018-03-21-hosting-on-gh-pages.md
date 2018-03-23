@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hosting on Github Pages"
-date:   2018-03-20
+date:   2018-03-21
 author: Domhnall
 categories: jekyll gh-pages
 ---
