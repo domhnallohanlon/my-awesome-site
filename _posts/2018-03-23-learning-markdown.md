@@ -6,7 +6,7 @@ author: Domhnall
 categories: jekyll markdown
 ---
 
-There are several "flavours" of Markdown, which is a simple and intuitive text formatting language. The more you know the nicer you posts will be.
+There are several "flavours" of Markdown, which is a simple and intuitive text formatting language. The more you know the nicer your posts will be.
 
 ### Background
 
