@@ -48,6 +48,11 @@ Thanks for Parker Moore for clearly explaining how this came about and why it's 
 
 [Clearing Up Confusion Around baseurl](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/)
 
+### Set Your URL
+
+If you decide to buy/obtian a domain name for your site then then you will need to set the *URL* property instead.
+
+You can read more about this on [Getting a free Domain Name]({{site.baseurl}}{% link _posts/2018-03-25-free-TLDs.md %})
 
 ### Print This Page
 
